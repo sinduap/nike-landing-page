@@ -1,5 +1,3 @@
-const Subscribe = () => {
-  return <div>Subscribe</div>;
-};
+const Subscribe = () => <div>Subscribe</div>;
 
 export default Subscribe;

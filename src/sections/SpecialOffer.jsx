@@ -1,5 +1,3 @@
-const SpecialOffer = () => {
-  return <div>SpecialOffer</div>;
-};
+const SpecialOffer = () => <div>SpecialOffer</div>;
 
 export default SpecialOffer;
